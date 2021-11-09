@@ -2,3 +2,5 @@ The rainbow
 pink
 Orange and Blue
 Green
+yellow
+brown
